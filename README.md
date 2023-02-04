@@ -1,2 +1,2 @@
 # aws
-aws cli, aws network design, aws adavnced networking
+AWS CLI, AWS Network Design, AWS Adavnced Networking
