@@ -1,0 +1,12 @@
+{
+  "locations": [
+    {
+      "name": "Frankfurt",
+      "ip_address": "180.0.0.0/27"
+    },
+    {
+      "name": "Oregon",
+      "ip_address": "170.0.0.0/27"
+    }
+  ]
+}
