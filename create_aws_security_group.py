@@ -31,6 +31,7 @@ def create_security_groups(access_key, secret_key, aws_region):
 #def modify_inbound_rules():
 
 if __name__ == "__main__":
+    # authentication for aws account
     access_key = input("Enter your AWS access key: ")
     secret_key = input("Enter your AWS secret key: ")
     aws_region = input("Enter the AWS region: ")
